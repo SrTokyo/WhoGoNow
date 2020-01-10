@@ -1,0 +1,14 @@
+C:\Users\Tiago\source\repos\WhoGoNow\bin\Debug\WhoGoNow.exe.config
+C:\Users\Tiago\source\repos\WhoGoNow\bin\Debug\WhoGoNow.exe
+C:\Users\Tiago\source\repos\WhoGoNow\bin\Debug\WhoGoNow.pdb
+C:\Users\Tiago\source\repos\WhoGoNow\obj\Debug\WhoGoNow.csprojAssemblyReference.cache
+C:\Users\Tiago\source\repos\WhoGoNow\obj\Debug\MainWindow.g.cs
+C:\Users\Tiago\source\repos\WhoGoNow\obj\Debug\App.g.cs
+C:\Users\Tiago\source\repos\WhoGoNow\obj\Debug\WhoGoNow_MarkupCompile.cache
+C:\Users\Tiago\source\repos\WhoGoNow\obj\Debug\WhoGoNow_MarkupCompile.lref
+C:\Users\Tiago\source\repos\WhoGoNow\obj\Debug\MainWindow.baml
+C:\Users\Tiago\source\repos\WhoGoNow\obj\Debug\WhoGoNow.g.resources
+C:\Users\Tiago\source\repos\WhoGoNow\obj\Debug\WhoGoNow.Properties.Resources.resources
+C:\Users\Tiago\source\repos\WhoGoNow\obj\Debug\WhoGoNow.csproj.GenerateResource.cache
+C:\Users\Tiago\source\repos\WhoGoNow\obj\Debug\WhoGoNow.exe
+C:\Users\Tiago\source\repos\WhoGoNow\obj\Debug\WhoGoNow.pdb
